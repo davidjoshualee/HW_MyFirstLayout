@@ -1,0 +1,93 @@
+* {
+    font-family: 'Muli', sans-serif;
+    padding: 0;
+    margin: 0;
+
+}
+
+html {
+    background-color: #F2F1EA;
+    height: 100%;
+    overflow: hidden;
+}
+
+.header {
+    display: block;
+    background-color: #102542;
+    height: 200px;
+    width: 100%;
+}
+
+.aboutme {
+    display: block;
+    font-size: 80px;
+    color: #A3A8B0;
+    text-align: right;
+    position: relative;
+    top: -38px;
+    right: -25px;
+}
+
+.name {
+    display: block;
+    font-size: 25px;
+    color: white;
+    text-align: center;
+    position: relative;
+    top: -25px;
+    right: 184px;
+}
+
+.profilepic {
+    width: 15%;
+    position: relative;
+    top: -115px;
+    right: -85px;
+}
+
+.description {
+    display: block;
+    font-size: 10px;
+    color: black;
+    position: relative;
+    top: -195px;
+    right: -384px;
+}
+
+.hello {
+    display: block;
+    font-size: 18px;
+    color: black;
+    position: relative;
+    top: -140px;
+    right: -384px;
+
+}
+
+p {
+    width: 50%;
+    font-size: 15px;
+    color: black;
+    position: relative;
+    top: -140px;
+    right: -384px;
+}
+
+ol {
+    width: 50%;
+    font-size: 15px;
+    color: black;
+    position: relative;
+    top: -100px;
+    right: -420px;
+}
+
+.facts {
+    display: block;
+    font-size: 15px;
+    color: black;
+    position: relative;
+    top: -100px;
+    right: -384px;
+
+}
